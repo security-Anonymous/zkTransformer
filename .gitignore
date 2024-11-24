@@ -1,7 +1,6 @@
 data/
 cmake*/
 output/
-3rd/
 *.txt
 *.cbp
 *.cmake
