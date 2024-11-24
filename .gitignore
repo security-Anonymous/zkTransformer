@@ -1,0 +1,12 @@
+data/
+cmake*/
+output/
+3rd/
+*.txt
+*.cbp
+*.cmake
+*.a
+Makefile
+CMakeFiles/
+CMakeCache.txt
+src/CMakeFiles/
